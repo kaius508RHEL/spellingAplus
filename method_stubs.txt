@@ -1,0 +1,31 @@
+public class SpellCheckerController {
+    public static void main(String[] args) {
+        //TODO: call SpellCheckerModel
+        //TODO: call SpellCheckerView
+    }
+}
+
+public class SpellCheckerModel {
+    public SpellCheckerModel (File file, int automation){
+        //TODO: Create Constructor
+    }
+    private String bestChoice (String s){
+//TODO: Create an Algorithm to Identify the Best Word Choice
+    }
+    private boolean automatic (String s){
+//TODO: Determine if the Word Should be Corrected Automatically or Not
+    }
+    public File spellCheck (File file, int automation) {
+//TODO: Create an Algorithm to Correct the File
+    }
+}
+
+public class SpellCheckerView {
+    public void displayOutput(List<List<String>> changes) {
+        //TODO: Display the words changed
+    }
+    public void storeFile(File file, String location) {
+        //TODO: Store the given file into the specified location
+    }
+
+}

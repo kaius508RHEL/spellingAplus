@@ -1,0 +1,2 @@
+javac -d out/production/project-sycamore $(find src/main/java -name "*.java")
+java -classpath out/production/project-sycamore src.main.java.SpellCheckerController src/main/java/tester.txt 10

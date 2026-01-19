@@ -1,0 +1,5 @@
+Word changed: [heplo] -> [HELLO]
+Word changed: [wopld] -> [WOOLD]
+Word changed: [Thes] -> [THEA]
+Word changed: [worlsd] -> [WORLDS]
+Word changed: [testr] -> [TESTE]

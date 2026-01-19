@@ -1,0 +1,5 @@
+// This is a simples comment with a misspelled wird.
+public class A {
+    /* Here is anotus colament. */
+    int x = 5; // in-line coinvent jerre
+}

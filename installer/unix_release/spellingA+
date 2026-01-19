@@ -1,0 +1,6 @@
+cd $HOME/spellingA+
+if [ $1 == "--help" ]; then
+	cat README
+else
+java -classpath src src.SpellCheckerController $1 $2
+fi

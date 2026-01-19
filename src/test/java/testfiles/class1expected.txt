@@ -1,0 +1,5 @@
+// This is a simplest comment with a misspelled word.
+public class A {
+    /* Here is another comment. */
+    int x = 5; // inline comment here
+}

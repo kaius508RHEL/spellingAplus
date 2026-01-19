@@ -1,0 +1,27 @@
+README
+Version 2
+November 26, 2025 21:22
+SpellingA+ by Project-Sycamore
+
+-------------------------------
+
+Input:	spellingA+ [full input file path] [automation number 0 to 10]
+
+Output: Corrected file overwrites the original input file. 
+	A backup of the original file is written to $HOME/spellingA+/backups/<ORIGINAL FILE NAME>.bak
+	     * NOTE: numbers will be appended to .bak for newer backup copies of the same file
+
+Software Requirements:
+
+	- Java JDK and JRE version 17+
+	- Linux or MacOSX
+	- bash or zsh
+	- tar
+	- cat
+	- sed
+	
+Tested Operating Systems:
+
+	- Ubuntu 24.04 with bash
+	- Mac OS 12 Monterey with zsh
+	

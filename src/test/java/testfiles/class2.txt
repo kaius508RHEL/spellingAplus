@@ -1,0 +1,5 @@
+// Here's antoher comment with a mipelled word
+public class B {
+    /* Here is anotus colament. */
+    int y = 25; // y is in fackt twenty fiva
+}

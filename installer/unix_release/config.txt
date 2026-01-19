@@ -1,0 +1,3 @@
+backupPath = backups
+whitelist = { white list words here }
+automation = 10
